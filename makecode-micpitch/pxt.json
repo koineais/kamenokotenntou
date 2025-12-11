@@ -1,0 +1,14 @@
+{
+  "name": "mic-pitch",
+  "description": "Micro:bit v2 マイクで音程（MIDIノート）を返す MakeCode 拡張",
+  "version": "0.0.1",
+  "license": "MIT",
+  "dependencies": {
+    "core": "*"
+  },
+  "files": [
+    "README.md",
+    "main.ts"
+  ],
+  "public": true
+}
